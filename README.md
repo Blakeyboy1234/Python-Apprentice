@@ -17,7 +17,9 @@ Next, after you've started the Codespaces editor, click on the file browser in t
 window to open the first lesson, which is in the directory:
 
     lessons/lessons/00_Turtles/01_Get_Started.ipynb
-
-
-
-
+tina.up(200)
+tina.down(150)
+tina.foward(50)
+tina.backward
+tina.up(600)
+tina.
